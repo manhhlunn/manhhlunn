@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manhhlunn
-- 👀 I’m interested in Android Dev
-- 🌱 I’m currently learning Android
+- 👀 I’m interested in Mobile Dev
+- 🌱 I’m currently learning Android, Flutter
 - 📫 Email: manhhlunn@gmail.com
 
 <!---
